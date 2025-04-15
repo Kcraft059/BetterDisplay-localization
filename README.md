@@ -4,15 +4,15 @@
 
 ## Traductions spécifiques / adaptées à l'app
 `upscaling` -> `démultiplication`  
-`dimming` -> `attenuation`  
+`dimming` -> `atténuation`  
 `color table` -> `table de couleur`  
 `picture in picture` -> `image dans l'image`  
-`mirror (a display)` -> `mettre (un écran) en mirroir`  
+`mirror (a display)` -> `mettre (un écran) en miroir`  
 `Add (setting)` -> `Ajouter une configuration au menu` _(Dans le cas d'un element du menu de l'app)_  
 `(display) wake` -> `réactiver (l'écran)`  
 `notification dispatch` -> `distribution de notification`  
 `Apple Silicon` -> `Puce Apple`  
-`Controls` -> `Controles`_(en attente d'une meilleur trad)_  
+`Controls` -> `Contrôles`_(en attente d'une meilleur trad)_  
 `Audio device` -> `Périphérique audio`  
 `app icon` -> `icône du menu` _(dans le cas adapté)_  
 `fine scale` -> `réglage précis`  
@@ -25,7 +25,7 @@
 `functionality` -> `fonction` _(dépendant du contexte)_  
 `calibrate` -> `étalonner`  
 
-## Traductions standards / Choix de traduction
+## Traductions standard / Choix de traduction
 `toggle (something)` -> `faire basculer (quelque chose)`  
 `ON/OFF switch` -> `interrupteur marche/arrêt`  
 `Bring to` -> `Amener vers`   
@@ -37,3 +37,7 @@
 `settings` -> `réglage`  
 `display layout` -> `disposition d'écrans`  
 `Stream` -> `diffusion` _(Quand dans le contexte du stream d'un écran)_  
+
+## A réviser pour la prochaine version
+
+`Désactiver et supprimer le profil de couleur` -> `Supprimer l'écran et son profil`
