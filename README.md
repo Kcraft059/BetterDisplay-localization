@@ -45,3 +45,4 @@
 ## A réviser pour la prochaine version
 
 - [x] `Désactiver et supprimer le profil de couleur` -> `Supprimer l'écran et son profil`
+- [] `Mettre à jour le taux de rafraichissement` -> `Frequence de mise à jour` (Contexte Config DDC)
